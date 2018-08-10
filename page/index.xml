@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pages on Mike Trueba</title>
-    <link>mikes.tech/page/</link>
+    <link>https://mikes.tech/page/</link>
     <description>Recent content in Pages on Mike Trueba</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 25 Jul 2018 16:46:28 -0400</lastBuildDate>
     
-	<atom:link href="mikes.tech/page/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mikes.tech/page/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>mikes.tech/about/</link>
+      <link>https://mikes.tech/about/</link>
       <pubDate>Wed, 25 Jul 2018 16:46:28 -0400</pubDate>
       
-      <guid>mikes.tech/about/</guid>
+      <guid>https://mikes.tech/about/</guid>
       <description>Hi, I&amp;rsquo;m Mike.</description>
     </item>
     

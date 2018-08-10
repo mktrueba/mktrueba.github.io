@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>mikes.tech/about/</loc>
+    <loc>https://mikes.tech/about/</loc>
     <lastmod>2018-07-25T16:46:28-04:00</lastmod>
   </url>
   
   <url>
-    <loc>mikes.tech/2018/07/25/hello/</loc>
+    <loc>https://mikes.tech/2018/07/25/hello/</loc>
     <lastmod>2018-07-25T15:58:18-04:00</lastmod>
   </url>
   
   <url>
-    <loc>mikes.tech/categories/</loc>
+    <loc>https://mikes.tech/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>mikes.tech/</loc>
+    <loc>https://mikes.tech/</loc>
     <lastmod>2018-07-25T16:46:28-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>mikes.tech/page/</loc>
+    <loc>https://mikes.tech/page/</loc>
     <lastmod>2018-07-25T16:46:28-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>mikes.tech/post/</loc>
+    <loc>https://mikes.tech/post/</loc>
     <lastmod>2018-07-25T15:58:18-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>mikes.tech/tags/</loc>
+    <loc>https://mikes.tech/tags/</loc>
     <priority>0</priority>
   </url>
   
